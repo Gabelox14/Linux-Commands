@@ -1,6 +1,6 @@
 # Linux-Commands
 | Command | Description | Example |
-| --- | --- | --- |
+| --- | ----- | ----- |
 | `sudo` | Permite correr comandos con permisos  de administrador |
 | `ls` | Busca actualizaciones |
 | `sudo apt update` | Busca actualizaciones |
