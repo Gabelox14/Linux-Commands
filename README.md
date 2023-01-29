@@ -16,5 +16,5 @@
 | `ps-aux` | Mostrar lista de procesos corriendo |
 | `sudo kill -9 *ID* ` | Cerrar un proceso mediante el id |
 | `top` | Mostrar procesos activos |
-| `htop ` | Visualizar los procesos de una manera mas atractiva |
+| `htop ` | Permite monitorear de forma interactiva los recursos vitales del sistema o los procesos en tiempo real |
 | `pstree` | Arbol de procesos  |
